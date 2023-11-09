@@ -101,7 +101,7 @@ To ascertain a root cause analysis, we attempted to answer the followimg questio
 
 - 1980 students i.e 53.9% of all students passed (scored greater than or equal to 50) while 1718 students i.e 46.9% of all students failed (scored less than 50).
 
-![image1](https://user-images.githubusercontent.com/88894128/209207928-053987ee-5ffd-4d7f-b5ac-517a2037b9f0.png)
+![image1](https://github.com/Meetpanchal58/SQL-Excel-Project/blob/main/Student%20Performance%20Dashboard.png)
 
 
 ### Built with
